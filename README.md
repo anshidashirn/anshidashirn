@@ -14,7 +14,7 @@ I’m a **Computer Science Engineering** student with a strong interest in **Mac
 
 <div class="badges-intro">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,git,java,linux,mongodb,nodejs,postman,figma,blender&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,git,java,linux,mongodb,nodejs,postman,figma,blender&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -35,13 +35,13 @@ I’m a **Computer Science Engineering** student with a strong interest in **Mac
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosuanjal&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshidashirn&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudosuanjal&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshidashirn&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudosuanjal&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshidashirn&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -51,28 +51,19 @@ I’m a **Computer Science Engineering** student with a strong interest in **Mac
 
 
 <p align="center">
-  <a href="https://www.instagram.com/sudosuanjal/">
+  <a href="https://www.instagram.com/anshidashirn/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/sudosuanjal">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/sudosuanjal">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/sudosuanjal">
+  <a href="https://github.com/anshidashirn">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:anjalkbijuoffical@gmail.com">
+  <a href="mailto:anshidashirin3@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sudosuanjal/">
+  <a href="https://www.linkedin.com/in/anshida-shirin/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/22212559/anjal-k-biju">
-    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/sudosuanjal">
+  <a href="https://x.com/anshidashirin">
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>&nbsp;&nbsp;
 </p>
