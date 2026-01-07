@@ -51,7 +51,7 @@ I’m a **Computer Science Engineering** student with a strong interest in **Mac
 
 
 <p align="center">
-  <a href="https://www.instagram.com/anshidashirn/">
+  <a href="https://www.instagram.com/an5hify/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/anshidashirn">
