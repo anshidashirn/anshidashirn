@@ -1,4 +1,4 @@
-# Oi, World! Im Anjal 👋
+# Oi, World! Im Anshida 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=sudosuanjal&label=Profile%20views&color=60598F&style=flat)
 
