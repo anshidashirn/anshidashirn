@@ -4,17 +4,17 @@
 
 <div class="github-introduction">
 
-I'm a **Computer Science Engineer** with a knack for building web applications. Fascinated by the potential of **Web3**, I'm passionate about learning **smart contracts** and harnessing the power of **decentralization** to make the world a better place. Let's connect and build the future of the internet together! 🌐🚀
+I’m a **Computer Science Engineering** student with a strong interest in **Machine Learning** and a passion for crafting intuitive, user-centered experiences through **UI/UX design**. I enjoy blending logic with creativity, and I’m especially fascinated by **3D animations** and interactive visuals that bring ideas to life. Constantly exploring new technologies and design trends, I’m driven to build smart, visually engaging digital products that make a meaningful impact. Let’s learn, create, and innovate together! ✨💻🎨
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:anjalcontact@gmail.com">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:anshidashirin3@gmail.com">email.</a>
 - 💬 Curious? Just ask!
-- contact: anjalcontact@gmail.com
+- contact: anshidashirin3@gmail.com
 
 <div class="badges-intro">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,appwrite,c,express,git,java,linux,mongodb,nodejs,postman,solidity,ts,vite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,git,java,linux,mongodb,nodejs,postman,figma,blender&perline=8)](https://skillicons.dev)
 
 </div>
 
