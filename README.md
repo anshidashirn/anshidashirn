@@ -1,6 +1,6 @@
 # Oi, World! Im Anshida 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=sudosuanjal&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=anshidashirn&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
@@ -22,14 +22,14 @@ I’m a **Computer Science Engineering** student with a strong interest in **Mac
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudosuanjal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="sudosuanjal's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudosuanjal&theme=highcontrast&hide_border=true" alt="sudosuanjal's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=anshidashirn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="anshidashirn's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshidashirn&theme=highcontrast&hide_border=true" alt="anshidashirn's Streak" height="165">
   </p>
 </div>
 
 <div align="center">
   
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudosuanjal&custom_title=Anjal's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshidashirn&custom_title=Anjal's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
