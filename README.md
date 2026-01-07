@@ -14,7 +14,7 @@ I’m a **Computer Science Engineering** student with a strong interest in **Mac
 
 <div class="badges-intro">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,git,java,linux,mongodb,nodejs,postman,figma,blender,python,capcutlightroom&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,git,java,linux,mongodb,nodejs,postman,figma,blender,python,capcut,lightroom&perline=8)](https://skillicons.dev)
 
 </div>
 
