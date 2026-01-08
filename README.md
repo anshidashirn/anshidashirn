@@ -1,4 +1,4 @@
-# Oi, World! Im Anshida shirin👋
+# Hey, World! Im Anshida shirin👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=anshidashirn&label=Profile%20views&color=60598F&style=flat)
 
